@@ -106,3 +106,10 @@
     <br>Oracle University <br> December 15, 2021 
     </center>
 </p>
+
+<p align ="left">
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4778877&trackId=OCI23AIFCA&key=e7c07a18d1fabed3f128a5a4d7d82bb9132c3c4a">
+    <br>Oracle Cloud Infrastructure 2023 AI Foundations Associate</a>
+    <br>Oracle University <br> November 01, 2023
+    </center>
+</p>
